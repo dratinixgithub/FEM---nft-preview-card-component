@@ -28,18 +28,18 @@ NOTE(Hover state for main img its done but, it doesnt give proper transparency)
 
 - MOBILE Version:
 
-![](./ssMobile.png)
+![](./sMobile.png)
 
 - DESKTOP Version:
 
-![](./ssDesktop.png)
+![](./sDesktop.png)
 
 
 ## My process
 
 ### Approach
 
-![](./theApproach.png)
+![](./Approach.png)
 
 ### Built with
 
