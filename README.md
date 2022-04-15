@@ -28,7 +28,7 @@ NOTE(Hover state for main img its done but, it doesnt give proper transparency)
 
 - MOBILE Version:
 
-![](./ssMobile.png)
+![](./)
 
 - DESKTOP Version:
 
