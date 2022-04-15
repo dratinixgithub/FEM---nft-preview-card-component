@@ -22,6 +22,8 @@ Users should be able to:
 
 - See hover states for interactive elements
 
+NOTE(Hover state for main img its done but, it doesnt give proper transparency)
+
 ### Outcome
 
 - MOBILE Version:
