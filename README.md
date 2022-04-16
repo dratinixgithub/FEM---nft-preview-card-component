@@ -56,5 +56,5 @@ Users should be able to:
 
 ## Acknowledgments
 
-*Final Fix of img overlay:
+[ Final Fix of img overlay: ]
 - Mr Coder [YouTube](https://www.youtube.com/channel/UCsv_Hi2fnZ_FGG0rko1OzWg)
