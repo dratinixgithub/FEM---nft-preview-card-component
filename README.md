@@ -26,20 +26,21 @@ Users should be able to:
 
 - MOBILE Version:
 
+<img src="images/sMobile.png" width="100px" height="100px">
+
 ![](images/image-avatar.png)
-![](images/sMobile.png)
 ![](sMobile.png)
 
 - DESKTOP Version:
 
-![](images/sDesktop.png)
+![](sDesktop.png)
 
 
 ## My process
 
 ### Approach
 
-![](images/Approach.png)
+![](Approach.png)
 
 ### Built with
 
