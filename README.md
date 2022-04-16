@@ -26,7 +26,7 @@ Users should be able to:
 
 - MOBILE Version:
 
-<img src="images/sMobile.png" width="100px" height="100px">
+<img src="images/sMobile.PNG" width="100px" height="100px">
 
 ![](images/image-avatar.png)
 ![](sMobile.png)
