@@ -26,6 +26,9 @@ Users should be able to:
 
 - MOBILE Version:
 
+<img src="images/image-avatar.png">
+
+![](images/image-avatar.png)
 ![](sMobile.png)
 
 - DESKTOP Version:
