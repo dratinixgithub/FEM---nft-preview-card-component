@@ -26,7 +26,7 @@ Users should be able to:
 
 - MOBILE Version:
 
-
+![](images/image-avatar.png)
 ![](images/sMobile.png)
 ![](sMobile.png)
 
