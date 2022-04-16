@@ -26,18 +26,18 @@ Users should be able to:
 
 - MOBILE Version:
 
-![](./sMobile.png)
+![](sMobile.png)
 
 - DESKTOP Version:
 
-![](./sDesktop.png)
+![](sDesktop.png)
 
 
 ## My process
 
 ### Approach
 
-![](./Approach.png)
+![](Approach.png)
 
 ### Built with
 
