@@ -20,9 +20,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 Users should be able to:
 
-- See hover states for interactive elements
-
-NOTE(Hover state for main img its done but, it doesnt give proper transparency)
+- See hover states for interactive elements (all working properly)
 
 ### Outcome
 
@@ -58,4 +56,5 @@ NOTE(Hover state for main img its done but, it doesnt give proper transparency)
 
 ## Acknowledgments
 
-- 
+*Final Fix of img overlay:
+- Mr Coder [YouTube](https://www.youtube.com/channel/UCsv_Hi2fnZ_FGG0rko1OzWg)

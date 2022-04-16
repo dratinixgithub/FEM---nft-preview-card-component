@@ -31,36 +31,61 @@ html{
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background: var(--Very-dark-blue-main-BG)
+    background: var(--Very-dark-blue-main-BG);
 }
 
 .card-container{
-    width: 290px;
-    height: 500px;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
     background: var(--Very-dark-blue-card-BG);
-    border-radius: 15px;
+    width: 300px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
 
 .card-container__img{
     background-image: url(./images/image-equilibrium.jpg);
-    width: 250px;
-    height: 250px;
+    border-radius: 10px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    border-radius: 7px;
-    margin: 20px auto;
+    width: 260px;
+    height: 247px;
+    display: block;
+    object-fit: cover;
 }
 
-.card-container__img:hover{
-    background:transparent url(./images/icon-view.svg) no-repeat scroll 0pt 50%;
-    background-position: center;
-    background-color: var(--Cyan);
-    opacity: 0.7;
+.img__overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 260px;
+    height: 247px;
+    top: 20px;
+    left: 20px;
+    border-radius: 10px;
+    background-color: var(--Cyan-opa);
+    cursor: pointer;
+    display: none;
 }
+
+.img__overlay img{
+    position: absolute;
+    width: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card-container__img:hover .img__overlay{
+    display: block;
+}
+
 
 .card-container__info{
-    padding: 3px 20px;
+    margin-top: 20px;
     text-align: left;
 }
 
@@ -72,6 +97,7 @@ html{
 .info__tittle{
     font-weight: 600;
     color: var(--White);
+    font-size: 20px;
 }
 
 .info__paragraph{
@@ -95,9 +121,10 @@ html{
 .summary__detail{
     text-align: left;
     padding-right: 20px;
+    font-size: 15px;
 }
 
-.summary__detail h2{
+.summary__detail h3{
     color: var(--Cyan);
     font-weight: 400;
     font-size: 1rem;
@@ -125,7 +152,7 @@ html{
     color: var(--Soft-blue);
     font-size: 14px;
     padding-top: 8px;
-    padding-right: 30px;
+    padding-right: 55px;
 }
 
 .card-section__credits img{
@@ -133,8 +160,9 @@ html{
     border-radius: 50%;
 }
 
-.card-section__credits span{
+.card-section__credits a{
     color: var(--White);
+    text-decoration: none;
 }
 
 .credits__name:hover{
@@ -152,6 +180,10 @@ html{
 
     .card-container__info{
         text-align: left;
+    }
+
+    .img__overlay{
+        padding-top: 50px;
     }
 
 }
