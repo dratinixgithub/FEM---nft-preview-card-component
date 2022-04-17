@@ -170,6 +170,11 @@ html{
     cursor: pointer;
 }
 
+.shadow{
+    -webkit-box-shadow: 4px 5px 10px 7px rgba(20,37,61,0.57); 
+    box-shadow: 4px 5px 10px 7px rgba(20,37,61,0.57);
+}
+
 @media only screen and (min-width: 1140px){
 
     .card-container{
