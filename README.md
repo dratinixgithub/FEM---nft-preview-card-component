@@ -50,7 +50,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Kimue](https://dratinixgithub.github.io/FEM---nft-preview-card-component/)
+- Website - [Kimue](https://dratinixgithub.github.io/FEM---nft-preview-card-component)
 - Frontend Mentor - [@dratinixgithub](https://www.frontendmentor.io/profile/dratinixgithub)
 
 
